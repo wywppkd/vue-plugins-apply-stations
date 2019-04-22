@@ -1,5 +1,8 @@
 # vue插件(适用油站弹框)
 
+## 下载
+`npm i apply-stations -S`
+
 ## 使用
 ```
 // main.js
